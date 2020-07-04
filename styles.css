@@ -1,0 +1,43 @@
+h1{
+  color:white;
+  text-align: center;;
+}
+
+h2{
+  color:white;
+}
+.title{
+  background-color: #0a97b0;
+  padding-bottom: 5%;
+}
+
+/* .winnerimg{
+  margin-left: 20%;
+  width: 15%;
+
+} */
+.container {
+  margin: auto;
+  text-align: center;
+  background-color: white;
+  padding-top: 2%;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+.diceimg{
+  width: 50%;
+}
+
+footer {
+  margin-top: 5%;
+  color: red;
+  text-align: center;
+  font-family: 'Indie Flower';
+}
+/* img{
+  width: 60%;
+} */
